@@ -1,1 +1,1 @@
-Script that prints the absolute path of the current working directory
+script that switches the current user to the user
