@@ -1,2 +1,2 @@
 #!/bin/bash
-SET GLOBAL (BEST=School)
+echo "export BEST=School" > /etc/profile.d/BEST.sh
