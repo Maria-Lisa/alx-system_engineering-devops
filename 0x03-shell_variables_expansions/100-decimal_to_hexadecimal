@@ -1,0 +1,2 @@
+#!/bin/bash
+printenv DECIMAL | xargs printf "%x\n"
