@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv NUM | bc -l | xargs printf "%.2f\n"
+printenv NUM | xargs printf "%.2f\n"
