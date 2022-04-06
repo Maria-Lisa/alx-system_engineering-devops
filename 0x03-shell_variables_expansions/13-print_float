@@ -1,2 +1,2 @@
 #!/bin/bash
-System.out.printf(%.2f, NUM)
+printenv NUM | bc -l | xargs printf "%.2f\n"
